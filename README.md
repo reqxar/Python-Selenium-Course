@@ -1,2 +1,2 @@
-# AUTO_TESTS
-reqxar
+# Python-Selenium-Course
+Выполнение практических заданий при изучении Selenium webdriver.
